@@ -11,6 +11,8 @@ http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 https://pbbradio.com:8443/
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Worldwide FM
 http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
+#EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Krimi
+http://radio13.pro-fhi.net:9240/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Ola Radio
 https://listen.radioking.com/radio/190519/stream/232750
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Music Box Radio UK
