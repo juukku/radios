@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Culture
-http://icecast.radiofrance.fr/franceculture-midfi.mp3
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova (high)
 https://radionova.ice.infomaniak.ch/radionova-256.aac
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Red Light Radio (RIP)
