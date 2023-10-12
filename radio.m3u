@@ -6,7 +6,7 @@ https://radionova.ice.infomaniak.ch/radionova-256.aac
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Red Light Radio (RIP)
 http://www.michielgardner.nl:8000/redlightradio
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radiomeuh.com
-http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
+https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",PBB
 https://pbbradio.com:8443/
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Worldwide FM
