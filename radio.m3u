@@ -20,9 +20,9 @@ http://uk5.internet-radio.com:8149/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Tsugi Radio
 https://listen.radioking.com/radio/1906/stream/6029
 #EXTINF:-1 radio=true tvg-logo="top100station.png",NTS LIVE LDN
-http://listen.ntslive.co.uk/stream
+https://stream-relay-geo.ntslive.net/stream?client=NTSWebApp&t=1697182925587
 #EXTINF:-1 radio=true tvg-logo="top100station.png",NTS LIVE INT
-http://stream-relay-geo.ntslive.net/stream2
+https://stream-relay-geo.ntslive.net/stream2?client=NTSWebApp&t=1697182893414
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Rinse FM
 https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Rinse France
