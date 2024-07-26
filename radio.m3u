@@ -50,7 +50,7 @@ https://icecast.lyl.live/live
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Canut
 http://live.francra.org:8000/radiocanut
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Grenouille
-http://live.radiogrenouille.com/live
+https://live.radiogrenouille.com:8443/live
 #EXTINF:-1 radio=true tvg-logo="top100station.png",RTS Couleur3
 http://stream.srg-ssr.ch/m/couleur3/mp3_128
 #EXTINF:-1 radio=true tvg-logo="top100station.png",RFI monde 96
