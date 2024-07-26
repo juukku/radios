@@ -27,8 +27,8 @@
 		https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Rinse France
 		https://radio10.pro-fhi.net/radio/9041/stream
-#EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova nouvo (256)
-		https://radionova.ice.infomaniak.ch/nova-nouvo-256.aac
+#EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova nouvo (128)
+		https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Danse (128)
 		https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova La Nuit (128)
