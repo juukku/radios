@@ -45,7 +45,7 @@ https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
 https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Bordeaux (128)
 https://snb.ice.infomaniak.ch/snb-high.mp3
-#EXTINF:-1 radio=true tvg-logo="top100station.png",Lyl Radio
+#EXTINF:-1 radio=true tvg-logo="top100station.png",Lyl Radio (Lyon)
 https://icecast.lyl.live/live
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Canut
 http://live.francra.org:8000/radiocanut
