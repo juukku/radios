@@ -1,99 +1,99 @@
 #EXTM3U
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Culture
-		https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova (high)
-		https://radionova.ice.infomaniak.ch/radionova-256.aac
+https://radionova.ice.infomaniak.ch/radionova-256.aac
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Red Light Radio (RIP)
-		http://www.michielgardner.nl:8000/redlightradio
+http://www.michielgardner.nl:8000/redlightradio
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radiomeuh.com
-		https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3
+https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",PBB
-		https://pbbradio.com:8443/
+https://pbbradio.com:8443/
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Worldwide FM
-		http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
+http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Krimi
-		http://radio13.pro-fhi.net:9240/stream
+http://radio13.pro-fhi.net:9240/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Ola Radio (Marseille)
-		https://ola-radio.radiocult.fm/stream
+https://ola-radio.radiocult.fm/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Music Box Radio UK
-		http://uk5.internet-radio.com:8149/stream
+http://uk5.internet-radio.com:8149/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Tsugi Radio
-		https://listen.radioking.com/radio/1906/stream/6029
+https://listen.radioking.com/radio/1906/stream/6029
 #EXTINF:-1 radio=true tvg-logo="top100station.png",NTS LIVE LDN
-		https://stream-relay-geo.ntslive.net/stream?client=NTSWebApp&t=1697182925587
+https://stream-relay-geo.ntslive.net/stream?client=NTSWebApp&t=1697182925587
 #EXTINF:-1 radio=true tvg-logo="top100station.png",NTS LIVE INT
-		https://stream-relay-geo.ntslive.net/stream2?client=NTSWebApp&t=1697182893414
+https://stream-relay-geo.ntslive.net/stream2?client=NTSWebApp&t=1697182893414
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Rinse FM
-		https://streamer-uk.rinse.fm:8443/stream
+https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Rinse France
-		https://radio10.pro-fhi.net/radio/9041/stream
+https://radio10.pro-fhi.net/radio/9041/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova nouvo (128)
-		https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
+https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Danse (128)
-		https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
+https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova La Nuit (128)
-		https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3
+https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Hip Hop (128)
-    https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3
+https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Soul (128)
-    https://novazz.ice.infomaniak.ch/novazz-128.mp3
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Reggae (128)
-    https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3
+https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Classics (128)
-		https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
+https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Des Plages (128)
-		https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3
+https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Bordeaux (128)
-		https://snb.ice.infomaniak.ch/snb-high.mp3
+https://snb.ice.infomaniak.ch/snb-high.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Lyl Radio
-		https://icecast.lyl.live/live
+https://icecast.lyl.live/live
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Canut
-		http://live.francra.org:8000/radiocanut
+http://live.francra.org:8000/radiocanut
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Grenouille
-		http://live.radiogrenouille.com/live
+http://live.radiogrenouille.com/live
 #EXTINF:-1 radio=true tvg-logo="top100station.png",RTS Couleur3
-		http://stream.srg-ssr.ch/m/couleur3/mp3_128
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
 #EXTINF:-1 radio=true tvg-logo="top100station.png",RFI monde 96
-		http://live02.rfi.fr/rfimonde-96k.mp3
+http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",RFI Afrique 96
-		http://live02.rfi.fr/rfiafrique-96k.mp3
+http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",TSF Jazz
-		http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
+http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Inter (HIFI)
-		https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Inter (Auto)
-		https://stream.radiofrance.fr/franceinter/franceinter.m3u8
+https://stream.radiofrance.fr/franceinter/franceinter.m3u8
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Info
-		https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Europe 1
-		https://ais-live.cloud-services.paris/europe1.mp3
+https://ais-live.cloud-services.paris/europe1.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Galere
-		http://www.radiogalere.org:8080/galere.mp3
+http://www.radiogalere.org:8080/galere.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP
-		https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Groove
-		https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP World
-		https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipworld/fipworld_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Electro
-		https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipelectro/fipelectro_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Rock
-		https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Jazz
-		https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Nouveautés
-		https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipnouveautes/fipnouveautes_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP Reggae
-		https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8?id=radiofrance
+https://stream.radiofrance.fr/fipreggae/fipreggae_hifi.m3u8?id=radiofrance
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Mawalking Radio (Congolese Rumba, Soukous, Ndombolo and Kwassa Kwassa)
-		https://www.mawalkingradio.app/listen/mawalking_radio/mawalkingRhumba
+https://www.mawalkingradio.app/listen/mawalking_radio/mawalkingRhumba
 #EXTINF:-1 radio=true tvg-logo="top100station.png",House Afrika Radio (Dead)
-		http://uk5.internet-radio.com:8149/stream
+http://uk5.internet-radio.com:8149/stream
 #EXTINF:-1 radio=true tvg-logo="top100station.png",House Frequency
-		https://stream.housefrequency.net/radio/8000/128
+https://stream.housefrequency.net/radio/8000/128
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova Oslo
-		http://stream.radionova.no/mp3
+http://stream.radionova.no/mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",King William's Town Radio
-		https://www.radioking.com/play/kwt-fm
+https://www.radioking.com/play/kwt-fm
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Nova (128)
-		https://novazz.ice.infomaniak.ch/novazz-128.mp3
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
