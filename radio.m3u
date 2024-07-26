@@ -65,8 +65,6 @@ https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
 https://stream.radiofrance.fr/franceinter/franceinter.m3u8
 #EXTINF:-1 radio=true tvg-logo="top100station.png",France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
-#EXTINF:-1 radio=true tvg-logo="top100station.png",Europe 1
-https://ais-live.cloud-services.paris/europe1.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",Radio Galere
 http://www.radiogalere.org:8080/galere.mp3
 #EXTINF:-1 radio=true tvg-logo="top100station.png",FIP
